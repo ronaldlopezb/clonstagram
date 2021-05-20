@@ -1,0 +1,19 @@
+.contenedorLogin{
+    
+    margin: 50px 20px 20px 20px;
+    background-color: #eb8282;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    display: inline-block;
+    width: 150px;
+}
+
+.Form{
+    
+    display: flex;
+}
